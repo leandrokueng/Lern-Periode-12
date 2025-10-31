@@ -9,5 +9,13 @@ In dieser Lern-Periode möchte ich hauptsächlich Web-Dienste programmieren. Ich
 ## 31.10.2025
 
 - [ ] Heute möchte ich mit einer Webapp beginnen
-- [ ] Heute möchte ich am Freifach weiterarbeiten
-- [ ] Heute möchte ich meine Portfolio-Website überprüfen und schauen ob noch alles läuft
+- [X] Heute möchte ich am Freifach weiterarbeiten
+- [X] Heute möchte ich meine Portfolio-Website überprüfen und schauen ob noch alles läuft
+
+Heute habe ich am Freifach hauptsächlich weitergearbeitet. Ich konnte weiter kommen jedoch hatte ich keine Zeit um mit einer Webapp anzufangen. Darum werde ich es auf nächste Woche verschieben. Jedoch werde ich auch nächstes mal am Freifach arbeiten. Ich konnte ebenfalls meine Portfolio-Website überprüfen. Es funktioniert noch alles.
+
+## 07.11.2025
+
+- [ ] Heute möchte ich mit der Webapp beginnen.
+- [ ] Heute möchte ich am Freifach weiterarbeiten.
+- [ ] Heute möchte ich meine Mobile App auf Github veröffentlichen
