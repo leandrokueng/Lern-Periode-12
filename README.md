@@ -28,3 +28,10 @@ Ich habe heute hauptsächlich an meiner WebApp gearbeitet und ich bin gut voran 
 - [ ] Heute möchte ich am Freifach weiterarbeiten.
 - [X] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen
 
+Heute konnte ich leider ein weiteres mal das Freifach nicht vorran bringen. Sehr schade aber ich werde am nächsten Freitag mit dem Freifach beginnen. Heute habe ich mit den Styles auf meiner WebApp begonnen. Ich habe sehr viel Zeit damit verbracht und es ist auch sehr gut rausgekommen. Dazu habe ich am JavaScript code weitergeschrieben und neue Methoden implementiert. Da geht jedoch noch mehr.
+
+## 21.11.2025
+
+- [ ] Heute möchte ich am Freifach weiterarbeiten.
+- [ ] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen
+- [ ] Heute möchte ich die Bilder auf der Webapp formatieren.
