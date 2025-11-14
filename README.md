@@ -24,7 +24,7 @@ Ich habe heute hauptsächlich an meiner WebApp gearbeitet und ich bin gut voran 
 
 ## 14.11.2025
 
-- [X] Heute möchte ich Styles machen auf meiner WebApp
+- [X] Heute möchte ich Styles machen auf meiner WebApp.
 - [ ] Heute möchte ich am Freifach weiterarbeiten.
 - [X] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen.
 
