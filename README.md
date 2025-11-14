@@ -34,4 +34,4 @@ Heute konnte ich leider ein weiteres mal das Freifach nicht vorran bringen. Sehr
 
 - [ ] Heute möchte ich am Freifach weiterarbeiten
 - [ ] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen
-- [ ] Heute möchte ich die Bilder auf der Webapp formatieren
+- [ ] Heute möchte ich die Bilder auf der Webapp formatieren.
