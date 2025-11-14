@@ -18,7 +18,7 @@ Heute habe ich am Freifach hauptsächlich weitergearbeitet. Ich konnte weiter ko
 
 - [X] Heute möchte ich mit der Webapp beginnen.
 - [ ] Heute möchte ich am Freifach weiterarbeiten.
-- [X] Heute möchte ich meine Mobile App auf Github veröffentlichen
+- [X] Heute möchte ich meine Mobile App auf Github veröffentlichen.
 
 Ich habe heute hauptsächlich an meiner WebApp gearbeitet und ich bin gut voran gekommen. Ich konnte die Basis aufbauen. Ich hatte jedoch heute keine Zeit an dem Freifach weiter zu arbeiten. Ich habe ebebnfalls meine Maui APP auf Github veröffentlich, vorallem für die Bewerbungen. Das Freifach werde ich jedoch nächstes mal wieder in anspruch nehmen.
 
