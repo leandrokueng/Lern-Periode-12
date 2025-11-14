@@ -8,7 +8,7 @@ In dieser Lern-Periode möchte ich hauptsächlich Web-Dienste programmieren. Ich
 
 ## 31.10.2025
 
-- [ ] Heute möchte ich mit einer Webapp beginnen
+- [ ] Heute möchte ich mit einer Webapp beginnen.
 - [X] Heute möchte ich am Freifach weiterarbeiten.
 - [X] Heute möchte ich meine Portfolio-Website überprüfen und schauen ob noch alles läuft.
 
