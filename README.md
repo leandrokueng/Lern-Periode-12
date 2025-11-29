@@ -32,6 +32,8 @@ Heute konnte ich leider ein weiteres mal das Freifach nicht vorran bringen. Sehr
 
 ## 21.11.2025
 
-- [ ] Heute möchte ich am Freifach weiterarbeiten.
-- [ ] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen.
+- [X] Heute möchte ich am Freifach weiterarbeiten.
+- [X] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen.
 - [ ] Heute möchte ich die Bilder auf der Webapp formatieren.
+
+Heute habe ich mit dem Freifach begonnen zu arbeiten. Ich bin immernoch beim JavaScript Kurs. Ich habe die hälfte des Blocks dafür genutzt, um am Freifach weiterzu arbeiten. Ich sehe langsam das ende also ich bin langsam besser. Parallel dazu bin ich dran den JavaScript code auf meiner eigenen Website zu entwickelnm damit ich gerade ein bisschen Praxis rein bekomme. 
