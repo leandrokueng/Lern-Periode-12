@@ -37,3 +37,17 @@ Heute konnte ich leider ein weiteres mal das Freifach nicht vorran bringen. Sehr
 - [ ] Heute möchte ich die Bilder auf der Webapp formatieren.
 
 Heute habe ich mit dem Freifach begonnen zu arbeiten. Ich bin immernoch beim JavaScript Kurs. Ich habe die hälfte des Blocks dafür genutzt, um am Freifach weiterzu arbeiten. Ich sehe langsam das ende also ich bin langsam besser. Parallel dazu bin ich dran den JavaScript code auf meiner eigenen Website zu entwickelnm damit ich gerade ein bisschen Praxis rein bekomme. 
+
+## 28.11.2025
+
+- [X] Heute möchte ich am Freifach weiterarbeiten
+- [ ] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen
+- [X] Heute möchte ich die Bilder auf der Webapp formatieren
+
+Heute habe ich wieder am Freifach weitergearbeitet und die Bilder auf meiner Website formatiert. Für den JavaScript code für meine Website hatte ich leider keine Zeit mehr. Beim Freifach braucht es nicht mehr viel vielleicht nur noch nächstes mal. Es ist halt auch sehr viel lesen dazu und das braucht noch ein bisschen zeit. Den JavaScript code mache ich nächstes mal weiter
+
+## 05.12.2025
+
+- [ ] Heute möchte ich das Freifach abschliessen
+- [ ] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen
+- [ ] Heute möchte ich den Auftrag 1019 im Modul 323 nachholen
