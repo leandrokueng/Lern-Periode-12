@@ -49,5 +49,13 @@ Heute habe ich wieder am Freifach weitergearbeitet und die Bilder auf meiner Web
 ## 05.12.2025
 
 - [ ] Heute möchte ich das Freifach abschliessen
-- [ ] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen
-- [ ] Heute möchte ich den Auftrag 1019 im Modul 323 nachholen
+- [X] Heute möchte ich an meinem JavaScript Code in meiner WebApp weiter machen
+- [X] Heute möchte ich den Auftrag 1019 im Modul 323 nachholen
+
+Heute habe ich hauptsächlich am Modul 323 gearbeitet. Ich konnte zwei Aufträge nachholen wie der 1019 und der Auftrag 1020. Ebenfalls habe ich am JavaScript Code in meiner Webapp gearbeitet, jedoch hatte ich heute keine Zeit, am Freifach zu arbeiten. 
+
+## 12.12.2025
+
+- [ ] Heute möchte ich 1021 machen im Modul 323
+- [ ] Heute möchte ich 1022 machen im Modul 323
+- [ ] Heute möchte ich an der LB arbeiten. (323)
