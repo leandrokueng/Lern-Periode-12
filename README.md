@@ -56,6 +56,8 @@ Heute habe ich hauptsächlich am Modul 323 gearbeitet. Ich konnte zwei Aufträge
 
 ## 12.12.2025
 
-- [ ] Heute möchte ich 1021 machen im Modul 323
-- [ ] Heute möchte ich 1022 machen im Modul 323
-- [ ] Heute möchte ich an der LB arbeiten. (323)
+- [X] Heute möchte ich 1021 machen im Modul 323
+- [X] Heute möchte ich 1022 machen im Modul 323
+- [X] Heute möchte ich an der LB arbeiten. (323)
+
+Heute habe ich am Modul 323 gearbeitet und ich konnte ebenfalls an der LB weiterarbeiten. In der LB mussten wir also ich und meine Gruppe den Proxy ins Projekt einbauen. Es war eine längere Arbeit jedoch haben wir es bis zum ende des Unterricht blocks geschaft.
